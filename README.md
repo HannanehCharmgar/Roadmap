@@ -5,7 +5,7 @@ Data-Science-Roadmap/
 ├── .gitignore
 ├── 01_Supervised 📂
 │   ├── Regression 📂
-│   │   ├── Linear Regression
+│   │   ├── Linear Regression(https://github.com/HannanehCharmgar/linear-regression)
 │   │   ├── Multiple Regression
 │   │   └── Ridge & Lasso Regression
 │   ├── Classification 📂
