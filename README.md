@@ -1,6 +1,9 @@
 Data-Science-Roadmap/
+
 ├── README.md
+
 ├── LICENSE
+
 ├── .gitignore
 ├── 01_Supervised 📂
 │   ├── Regression 📂
