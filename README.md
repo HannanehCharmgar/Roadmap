@@ -5,16 +5,16 @@ Data-Science-Roadmap/
 ├── .gitignore
 ├── 01_Supervised 📂
 │   ├── Regression 📂
-│   │   ├── Linear Regression(https://github.com/HannanehCharmgar/linear-regression)
-│   │   ├── Multiple Regression
+│   │   ├── Linear Regression ✔
+│   │   ├── Multiple Regression ✔
 │   │   └── Ridge & Lasso Regression
 │   ├── Classification 📂
-│   │   ├── Logistic Regression
-│   │   ├── K-Nearest Neighbors (KNN)
-│   │   ├── Decision Tree
-│   │   ├── Random Forest
-│   │   ├── SVM (Support Vector Machines)
-│   │   ├── Naive Bayes
+│   │   ├── Logistic Regression ✔
+│   │   ├── K-Nearest Neighbors (KNN) ✔
+│   │   ├── Decision Tree ✔
+│   │   ├── Random Forest ✔
+│   │   ├── SVM (Support Vector Machines) ✔
+│   │   ├── Naive Bayes ✔
 │   │   └── Gradient Boosting (XGBoost/LightGBM/CatBoost)
 │   └── Projects 📂
 │       ├── House Price Prediction
